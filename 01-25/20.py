@@ -1,5 +1,6 @@
 # snake game
 # 큰 문제가 있으면 작은 문제로 분리해서 하나씩 해결하면 된다
+# 왜 시작했는지 알아야 한다. 프로그래밍은 마라톤과 같다
 from turtle import Screen
 from snake import Snake
 from food import Food
